@@ -28,7 +28,6 @@ em_allot_dict = {}
 dd_allot_dict = {} 
 
 def fill_pref_dict(file_path, no_of_cols_to_skip_em, no_of_cols_to_skip_dd): 
-    global em_pref_dict, dd_pref_list
     responses_df = pd.read_excel(file_path)
     no_of_options_em = 2
     no_of_options_dd = 4
