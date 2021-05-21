@@ -1,0 +1,89 @@
+explain the problem throughly
+specify the scope of the problem we are not interested in logistic
+of stduent verification, data entry, website development
+
+Purely algorithmic domain
+
+Make better block diagram
+Better ppt with explanation
+combination.xlsx add pincode in front of subject. So we can search in combination
+
+Steps : Add pincode, merge preferences
+Take college dataset, merge subjects with 
+
+Responsibilities per team member
+Uniqueness per team member
+What software development practices did we use 
+Limitation
+
+# START FROM HERE
+PRANAV SLIDE REQUIREMENTS
+
+title (old...revised title - why changed it)
+
+Implementing Distance Optimisation for Centrally Planned Vocation Allocation Schemes
+
+team members - contribution of every member towards prob statement
+
+Problem
+ (refer to notes i sent)
+
+objectives
+
+- Create synthetic datasets that simulate real world conditions for students and colleges and
+ are modelled after existing research and studies.
+ 
+- To Develop a vocation allocation scheme that takes into account vocation preferences anddistance metrics to
+ create an allocation scheme
+- Develop a "goodness" metric to determine the “goodness” of a particular allocation scheme which considers
+both student preference and location
+
+uniqueness in the project, objectives - to reduce the gap what you are doin (each and every team member)
+
+how unique contribution by each and every team member
+
+Rajarshi Saha
+
+contributions
+
+1.Synthetic Dataset Generation
+
+First we referred to a base dataset - put link and image of logo on 1 SLIDE
+
+
+2.Priority Allocation based on Distance Metric Normalization
+
+
+T M Sushant Krishnan
+
+contributions
+3. Vocation Allocation Algorithm
+
+4. "Goodness" metric for Calculation of Results
+
+how much of project have u completed - 80-100%
+(done)
+- Synthetic Student dataset
+- Synthetic college dataset
+- PR NO assignment script
+- Vocation Allocation algorithm
+(in progress)
+- Integration of distance optimization into Vocation Allocation algorithm
+- "Goodness" Metric Calculation and Results
+Completion % - 75%
+
+
+Results will be based on 
+1. plotting %ile of students getting 1st,2nd,3rd preference for 10 unique datasets and interations
+2. plotting %ile of students with same pincode as institute
+
+Limitations
+Due to time constraints we could not improve the allocation algorithm and adopted a greedy approach to allocation which is not
+very time efficient
+
+Distance metrics can be made much more granular, instead of pincode it could be an exact lattitude and longitude location
+
+Future work can be intergrating ML Techniques for distance metric optimization
+
+Future work can be developing a fully functional web interface i.e accounting for all other logistical factors for vocation allocation
+
